@@ -21,6 +21,11 @@
 
 ---
 
+### Python Language Projects
+- A Switch Emulator that supports MAC address learning, VLAN tagging, and Spanning Tree Protocol (STP): [Switch-Emulator](https://github.com/ralucaguceanu/Switch-Emulator)
+
+---
+
 ### Functional Programming Projects (Scala & Haskell)
 - An implementation of a simplified query language in Scala: [Simplified-Query-Language](https://github.com/ralucaguceanu/Simplified-Query-Language)
 - A model in Scala for predicting property prices based on various parameters: [Linear-Regression-Property-Pricing](https://github.com/ralucaguceanu/Linear-Regression-Property-Pricing)
