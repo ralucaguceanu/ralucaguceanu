@@ -8,6 +8,7 @@
 
 ### Java Projects
 - A player for streaming songs, playlists, and podcasts, enabling artists to publish announcements and merchandise: [Global-Waves](https://github.com/ralucaguceanu/Global-Waves)
+- Three different solutions for the Reader-Writer problem using parallel programming, leveraging a custom-built thread pool: [Reader-Writer-Problem](https://github.com/ralucaguceanu/Reader-Writer-Problem)
 
 ---
 
