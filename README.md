@@ -1,7 +1,7 @@
 ## Personal Repositories & Projects
 
 ### Full-Stack Projects
-- A full-stack web app built with Java, Spring Boot, React, TypeScript, PostgreSQL and Docker that generates personalized daily, weekly and monthly meal plans using constraint optimization with Timefold Solver: [NutriBalance](https://github.com/ralucaguceanu/nutri-balance)
+- A full-stack web app built with Java, Spring Boot, React, TypeScript, PostgreSQL and Docker that generates personalized daily, weekly and monthly meal plans, using Timefold Solver for constraint optimization: [NutriBalance](https://github.com/ralucaguceanu/nutri-balance)
 ---
 
 ### Operating Systems - C Projects
