@@ -1,5 +1,9 @@
 ## Personal Repositories & Projects
 
+### Full-Stack Projects
+- A full-stack web app built with Java, Spring Boot, React, TypeScript, PostgreSQL and Docker that generates personalized daily, weekly and monthly meal plans using constraint optimization with Timefold Solver: [NutriBalance](https://github.com/ralucaguceanu/nutri-balance)
+---
+
 ### Operating Systems - C Projects
 - A minimal C library that provides a subset of standard C functions: [Mini-Libc](https://github.com/ralucaguceanu/Mini-Libc)
 - A thread pool for efficient parallel graph traversal, utilizing POSIX threads and synchronization primitives: [Thread-Pool-Graph-Traversal](https://github.com/ralucaguceanu/Thread-Pool-Graph-Traversal)
